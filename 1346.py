@@ -1,4 +1,5 @@
-def checkIfExist(arr):
+#1346. Check If N and Its Double Exist
+def checkIfExist(arr):  #beat 60% in time complexity
     hashTable = {}
     for num in arr:
         hashTable[num] = hashTable.get(num, 0) + 1
@@ -17,7 +18,7 @@ def checkIfExist(arr):
 # Space complexity: O(n) create hashmap with n elements of the arr
 
 #Alternative better version:
-def checkIfExist(arr):
+def checkIfExist(arr):  #beat 100% in time complexity
     seen = set()
     for num in arr:
         if num*2 in seen or num == 0 and num in seen:
