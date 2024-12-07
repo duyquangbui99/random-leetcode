@@ -14,6 +14,8 @@ def makeFancyString(s):   # beat only 46.65% in time complexity
             continue
 
     return newString
+#Time complexity O(n^2) since string concatenation take O(n)
+
 
 #Alternative method: using array instead of string concatenation making time complexity from O(n^2) to O(n)
 def makeFancyString(s):  # beat 86%, much better
