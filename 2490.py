@@ -1,0 +1,2 @@
+def isCircularSentence(sentence):
+  return
