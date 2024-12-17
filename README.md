@@ -8,3 +8,5 @@
 1957: https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/1472189924/?envType=daily-question&envId=2024-12-01
 
 2490: https://leetcode.com/problems/circular-sentence/?envType=daily-question&envId=2024-12-10
+
+796: https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-12-10
