@@ -10,3 +10,5 @@
 2490: https://leetcode.com/problems/circular-sentence/?envType=daily-question&envId=2024-12-10
 
 796: https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-12-10
+
+2558: https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/?envType=daily-question&envId=2024-12-12
