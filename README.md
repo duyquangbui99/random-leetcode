@@ -12,3 +12,5 @@
 796: https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-12-10
 
 2558: https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/?envType=daily-question&envId=2024-12-12
+
+3264: https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/submissions/1489153233/?envType=daily-question&envId=2024-12-12
